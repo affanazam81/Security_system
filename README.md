@@ -3,8 +3,8 @@
 
 ### How to setup
 
-*  Download lates version of node
-*  clode the repo
+*  Download latest version of node
+*  clone the repo
 *  run npm install
 
 
